@@ -1,0 +1,18 @@
+h2 {
+    color: #7fffd4;
+    background-color: rgb(202, 66, 89);
+}
+
+button {
+    color: green;
+    background-color: violet;
+}
+
+p {
+    color: white;
+    background: Red;
+}
+
+body {
+    background: #000000;
+}
